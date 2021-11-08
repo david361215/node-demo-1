@@ -30,7 +30,7 @@ var server = http.createServer(function(request, response){
         <link rel="stylesheet" href="/style.css">
       </head>
       <body>
-        <h1>标题</h1>
+        <h1>标题标题</h1>
       </body>
     </html>`)
     response.end()
